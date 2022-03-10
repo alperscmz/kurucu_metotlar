@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.exe
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.deps.json
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.runtimeconfig.json
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.dll
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\bin\Debug\net6.0\ref\kurucu_metotlar.dll
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.pdb
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.AssemblyInfo.cs
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.dll
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\obj\Debug\net6.0\ref\kurucu_metotlar.dll
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.pdb
+C:\Users\alper\Desktop\Pratikler\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.genruntimeconfig.cache
